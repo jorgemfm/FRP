@@ -1,20 +1,15 @@
 #Fundamentos de Redes e Protocolos - Trabalho
 ## Instalar SSH
 
-1. Instalar SSH
-
+1.Instalar SSH
 ```bash
 tce-load -wi openssh
 ```
-
-2. Iniciar o serviço
-
+2.Iniciar o serviço
 ```bash
 sudo /usr/local/etc/init.d/openssh start
 ```
-
-3. Adicionar o inicio do serviço qd a maquina faz boot
-
+3.Adicionar o inicio do serviço qd a maquina faz boot
 ```bash
 echo "/usr/local/etc/init.d/openssh start">> /opt/bootlocal.sh
 ```
