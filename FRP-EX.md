@@ -166,7 +166,7 @@ copy running-config startup-config
 
 ![image](imagens/r3.png)
 
-** Ping PC3 bloqueado **
+**Ping PC3 bloqueado**
 ![image](imagens/ping_pc3_bloqueado.png)
 
 **Acesso do PC3 ao hosts PC1 e PC2**
