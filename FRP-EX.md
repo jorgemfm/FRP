@@ -52,7 +52,7 @@ sudo /usr/bin/filetool.sh -b
 ```
 
 **Ping do PC2 para o PC1**
-![image](imagens/ping_pc1_pc2.png)
+![image](imagens/ping_pc2_pc1.png)
 
 
 ### PC3
